@@ -1,7 +1,7 @@
 # Front-end-Developer-Interview-Q-A
 **Answer of Front-end-Developer-Interview-Questions**
 
-## 2.Html Questions
+## 2.HTML Questions
 
 1.What does a `doctype` do? `doctype`(文档类型) 的作用是什么？
 
@@ -14,6 +14,6 @@ DOCTYPEs are required for legacy reasons. When omitted, browsers tend to use a d
 
 3.What kind of things must you be wary of when design or developing for multilingual sites? 在设计和开发多语言网站时，有哪些问题你必须要考虑？
 
-Use `lang` attribute in HTML.
+- Use `lang` attribute in HTML.
 
 
